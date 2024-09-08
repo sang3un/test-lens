@@ -1,10 +1,5 @@
-import sys
-import time
 import cv2
 
-from datetime import datetime
-
-import pandas as pd
 import streamlit as st
 
 from streamlit_back_camera_input import back_camera_input
