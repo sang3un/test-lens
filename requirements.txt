@@ -2,3 +2,4 @@ streamlit==1.33.0
 streamlit-back-camera-input
 numpy==1.24.2
 pandas==2.2.2
+opencv-python==4.10.0.84
